@@ -1,4 +1,4 @@
-###Complete React Developer Notes
+### Complete React Developer Notes
 
 #### React Key Concepts 
 - Impertative vs. Declarative 
@@ -10,5 +10,5 @@
     - can be functional or class based 
     - easy to resuse and recycle
 
--Directional Data Flow
+- Directional Data Flow
     - data can only move down from state to different components in the application 
