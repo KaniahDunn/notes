@@ -45,7 +45,7 @@
     onChange={
             e => this.setState(
               { searchField: e.target.value },
-              console.log(this.state)
+              () => console.log(this.state)
             )
           }
     ``` 
