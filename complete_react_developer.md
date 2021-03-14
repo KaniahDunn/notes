@@ -38,3 +38,14 @@
             )
           }
     ```
+
+    - To see state change as someone is typing in the search bar, a call back function can be used as shown below 
+
+    ```
+    onChange={
+            e => this.setState(
+              { searchField: e.target.value },
+              console.log(this.state)
+            )
+          }
+    ``` 
