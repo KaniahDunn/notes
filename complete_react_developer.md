@@ -22,7 +22,8 @@
 ### React Basics 
 
 - Functional vs. Class Components 
-    - 
+    - Class compoments are the archaic way of writing React 
+    - Functional components are the more preferred way 
 
 - Life-cycle Methods 
     - ComponentDidMount: is used when the component is first rendered to the DOM 
