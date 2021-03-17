@@ -49,3 +49,12 @@
             )
           }
     ``` 
+
+- Synthetic Events 
+
+
+- Destructing : The ability to pull property off of an object and set them to `const` variables 
+
+- Actual DOM vs. Virtul Dom 
+    - Actual DOM that is presented in the browser 
+    - Virtual DOM is a copy that a created by React to update when there are changes to the Data that is being rendered to the components in the Actual DOM. React with look at the changes made to the components and their data, make a copy and then compare that against the actual DOM and render that SPECIFIC change to the actual DOM rather than rendering an entire new actual DOM. 
