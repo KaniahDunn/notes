@@ -32,3 +32,5 @@ const ContactMe = ( ) => {
 
 export default ContactMe;
 ```
+
+See FontAwesome element import syntax [here](https://github.com/FortAwesome/Font-Awesome/tree/1975bba5c4ade236c02bf2e5f9551160ee85109d/js-packages/%40fortawesome/free-brands-svg-icons) 
